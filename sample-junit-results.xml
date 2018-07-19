@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Sample Postman Collection" time="0.357">
+  <testsuite name="A simple GET request" id="f722228d-19a3-4763-a0a9-cdcd1319b02f" tests="2" time="0.27">
+    <testcase name="expect response be 200" time="0.27"/>
+    <testcase name="expect response json contain args" time="0.27"/>
+  </testsuite>
+  <testsuite name="A simple POST request" id="6b57abc7-4ac1-44f8-b033-741b5ee7b49c" tests="0" time="0.055"/>
+  <testsuite name="A simple POST request with JSON body" id="2f15a91e-487d-425d-9738-9a63dd9eb95f" tests="0" time="0.032"/>
+</testsuites>
